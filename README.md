@@ -40,7 +40,6 @@ Vamos juntos explorar o incrível mundo da tecnologia e criar soluções inovado
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RobsonPMartins&theme=yellowdark&hide_border=falso&locale=pt_BR&type=png&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 
