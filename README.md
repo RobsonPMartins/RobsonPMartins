@@ -12,10 +12,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobsonPMartins&theme=dark&hide_border=true&fire=DD2727" alt="Estatísticas de Contribuições">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RobsonPMartins&theme=great-gatsby&show_icons=true" alt="Anurag's GitHub stats">
 </p>
 
