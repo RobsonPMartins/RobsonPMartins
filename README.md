@@ -21,23 +21,28 @@
 
 <h3 align="center">Linguagens</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java">
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP">
-  <!-- Adicione mais ícones conforme necessário -->
 </p>
+
 
 <h3 align="center">Ferramentas</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Java Spring Boot">
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular">
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express">
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
 </p>
+
 
 <h3 align="center">Entre em Contato</h3>
 <p align="center">
