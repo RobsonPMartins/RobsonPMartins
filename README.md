@@ -55,16 +55,8 @@
   <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman">
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM">
   <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite">
-
-  <!-- Insomnia -->
-<img src="https://raw.githubusercontent.com/Kong/insomnia/master/assets/logo.png" alt="Insomnia" width="48" height="48">
-
-
-
-  <!-- Yarn -->
-  <img src="https://img.icons8.com/color/48/000000/yarn.png" alt="Yarn" width="48" height="48">
-  
-  <!-- JSON Viewer -->
+  <img src="https://github.com/user-attachments/assets/57260963-ef33-4d0d-bdd2-0337d884d618" alt="Insomnia" width="48" height="48">
+  <img src="https://github.com/user-attachments/assets/1b4a971f-40c4-4af5-91a7-e23904c839af" alt="Yarn" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/json.png" alt="JSON Viewer">
 </p>
 
