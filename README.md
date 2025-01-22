@@ -22,12 +22,21 @@
 
 <div align="center">
   <h4>Linguagens</h4>
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
-  </p>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="LESS" width="48" height="48">
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
+  <img src="https://styled-components.com/logo.png" alt="Styled Components" width="48" height="48">
+</div>
+
+
+
+
   <h4>Frameworks e Bibliotecas</h4>
   <p>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
@@ -36,12 +45,31 @@
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js">
   </p>
   <h4>Ferramentas</h4>
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
-    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code">
-  </p>
+<p>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
+  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman">
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM">
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite">
+
+  <!-- Insomnia -->
+<img src="https://raw.githubusercontent.com/Kong/insomnia/master/assets/logo.png" alt="Insomnia" width="48" height="48">
+
+
+
+  <!-- Yarn -->
+  <img src="https://img.icons8.com/color/48/000000/yarn.png" alt="Yarn" width="48" height="48">
+  
+  <!-- JSON Viewer -->
+  <img src="https://img.icons8.com/color/48/000000/json.png" alt="JSON Viewer">
+</p>
+
+
+
 </div>
 
 ---
